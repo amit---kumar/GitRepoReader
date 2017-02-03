@@ -1,4 +1,0 @@
-Steps
-	1. Change the configuration file
-	2. Comiple GitRepoReader.java
-	3. Execute GitRepoReader  
